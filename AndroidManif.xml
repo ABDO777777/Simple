@@ -2,6 +2,7 @@
     <application ... >
         <activity android:name=".MainActivity" ... >
             ...
+          <!-- Random Comment1-->>  
         </activity>
     </application>
 </manifest>
