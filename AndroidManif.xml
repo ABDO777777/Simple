@@ -2,8 +2,8 @@
     <application ... >
         <activity android:name=".MainActivity" ... >
             ...
-          <!-- Random Comment1-->>  
+          <!-- Random Comment1-->
         </activity>
     </application>
 </manifest>
-<!-- Random Comment2-->>
+<!-- Random Comment2-->
